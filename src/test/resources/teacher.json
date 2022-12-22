@@ -1,0 +1,10 @@
+{
+  "name": "Khan",
+  "age": 23,
+  "test": true,
+  "lessons": ["JUnit 5", "Files"],
+  "passport": {
+    "number": 123456,
+    "issueDate": "23.12.2022"
+  }
+}

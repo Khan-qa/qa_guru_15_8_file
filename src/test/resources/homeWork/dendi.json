@@ -1,0 +1,17 @@
+{
+  "name": "Данил",
+  "lastName": "Ишутин",
+  "birthday": "30.12.1989",
+  "age": 32,
+  "country": "Украина",
+  "org": [
+    "NAVI",
+    "Vega Squadron",
+    "B8"
+  ],
+  "hero": {
+    "mid": "Pudge",
+    "hard": "Pango",
+    "izi": "PA"
+  }
+}
